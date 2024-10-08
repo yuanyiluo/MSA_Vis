@@ -4,7 +4,8 @@ This is an application that aims to provide users with a real-time
 human-computer interacting environment based on sentiment understanding.
 
 The overall framework is shown as follow:
-<img alt="framework" src="D:\Research\code\MSA_Vis\imgs\figure1.png"/>
+
+<img alt="framework" src="imgs/figure1.png"/>
 
 ### run the app
 
